@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Ministry of Truth",
+  "universe": "O84 · The Ministry of Truth (tin-foil)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Ministry of Truth:O84:34afcc⟧",
+  "carbon": "the-ministry-of-truth.carbon.tiff (TIFF)",
+  "silicon": "the-ministry-of-truth.silicon.png (PNG)",
+  "seal_sha256": "5b4d2ddbab1a27da3e1e2322ecd7a83d54ab2c4b87fc9307ce53905e6884858c",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

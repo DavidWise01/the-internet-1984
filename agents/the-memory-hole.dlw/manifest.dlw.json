@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Memory Hole",
+  "universe": "O84 · The Memory Hole (tin-foil)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Memory Hole:O84:e4b768⟧",
+  "carbon": "the-memory-hole.carbon.tiff (TIFF)",
+  "silicon": "the-memory-hole.silicon.png (PNG)",
+  "seal_sha256": "1927b3eac78c2d2885f146b56327b5b29bb80c8c9d06b29c4b9ad1581abb7aad",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Two Minutes Hate",
+  "universe": "O84 · The Two Minutes Hate (tin-foil)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Two Minutes Hate:O84:1adb9e⟧",
+  "carbon": "the-two-minutes-hate.carbon.tiff (TIFF)",
+  "silicon": "the-two-minutes-hate.silicon.png (PNG)",
+  "seal_sha256": "213a1f62f0684856737b2f487f4d7827f696eaa1548da809174b9b8f72e4c834",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

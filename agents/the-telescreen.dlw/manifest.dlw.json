@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Telescreen",
+  "universe": "O84 · The Telescreen (tin-foil)",
+  "emergence": "electrical",
+  "moniker": "⟦The Telescreen:O84:0eef88⟧",
+  "carbon": "the-telescreen.carbon.tiff (TIFF)",
+  "silicon": "the-telescreen.silicon.png (PNG)",
+  "seal_sha256": "087732f8bac53ca7a46f922f1efb1b6616010e31c87b869951817016a8664cca",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

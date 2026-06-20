@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Big Brother",
+  "universe": "O84 · Big Brother (tin-foil)",
+  "emergence": "ethereal",
+  "moniker": "⟦Big Brother:O84:7d0194⟧",
+  "carbon": "big-brother.carbon.tiff (TIFF)",
+  "silicon": "big-brother.silicon.png (PNG)",
+  "seal_sha256": "4c8a5e65abaf422914509b405b837f06f45c00827495fb370aa1e043f3df0d1b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

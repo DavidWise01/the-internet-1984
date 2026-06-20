@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Thought Police",
+  "universe": "O84 · The Thought Police (tin-foil)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Thought Police:O84:58c9aa⟧",
+  "carbon": "the-thought-police.carbon.tiff (TIFF)",
+  "silicon": "the-thought-police.silicon.png (PNG)",
+  "seal_sha256": "14fc110a405b4dc19eb74c6f7306ef66268b14a5a29a8269d5f6a97bd461db6d",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

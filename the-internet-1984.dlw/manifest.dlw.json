@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "IS THE INTERNET 1984?",
+  "universe": "O84 · IS THE INTERNET 1984? (tin-foil · verify, don't amplify)",
+  "emergence": "",
+  "moniker": "⟦IS THE INTERNET 1984?:O84:ef445b⟧",
+  "carbon": "the-internet-1984.carbon.tiff (TIFF)",
+  "silicon": "the-internet-1984.silicon.png (PNG)",
+  "seal_sha256": "5d037a45a8c85fed15d854d9ad1a7f60c1a2b73570155560824de69cc1ab9908",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

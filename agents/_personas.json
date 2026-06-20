@@ -1,0 +1,65 @@
+[
+  {
+    "slug": "the-telescreen",
+    "name": "The Telescreen",
+    "epithet": "the screen that watches back · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Telescreen:O84:0eef88⟧"
+  },
+  {
+    "slug": "big-brother",
+    "name": "Big Brother",
+    "epithet": "the watcher · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Big Brother:O84:7d0194⟧"
+  },
+  {
+    "slug": "newspeak",
+    "name": "Newspeak",
+    "epithet": "shrinking the sayable · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Newspeak:O84:f47708⟧"
+  },
+  {
+    "slug": "the-memory-hole",
+    "name": "The Memory Hole",
+    "epithet": "editing the past · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Memory Hole:O84:e4b768⟧"
+  },
+  {
+    "slug": "the-thought-police",
+    "name": "The Thought Police",
+    "epithet": "policing the mind · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Thought Police:O84:58c9aa⟧"
+  },
+  {
+    "slug": "the-three-superstates",
+    "name": "The Three Superstates",
+    "epithet": "Oceania · Eurasia · Eastasia · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Three Superstates:O84:cdfb35⟧"
+  },
+  {
+    "slug": "the-two-minutes-hate",
+    "name": "The Two Minutes Hate",
+    "epithet": "orchestrated outrage · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Two Minutes Hate:O84:1adb9e⟧"
+  },
+  {
+    "slug": "the-ministry-of-truth",
+    "name": "The Ministry of Truth",
+    "epithet": "the official narrative · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Ministry of Truth:O84:34afcc⟧"
+  },
+  {
+    "slug": "the-verdict",
+    "name": "The Verdict",
+    "epithet": "metaphor, not mirror · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Verdict:O84:5afee2⟧"
+  }
+]

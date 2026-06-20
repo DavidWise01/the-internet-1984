@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Newspeak",
+  "universe": "O84 · Newspeak (tin-foil)",
+  "emergence": "ethereal",
+  "moniker": "⟦Newspeak:O84:f47708⟧",
+  "carbon": "newspeak.carbon.tiff (TIFF)",
+  "silicon": "newspeak.silicon.png (PNG)",
+  "seal_sha256": "2b79cef727bdb4e322c1a934f16fcb0c78e73f6572214acc9fe71005f6976e55",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
